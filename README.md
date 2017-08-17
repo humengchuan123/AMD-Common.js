@@ -2,6 +2,9 @@
 JS模块化知识总结
 
 如果你听过js模块化这个东西，那么你就应该听过或CommonJS或AMD甚至是CMD
+
+
+
 一、CommonJS
  
  CommonJS就是为JS的表现来制定规范，因为js没有模块的功能所以CommonJS应运而生，
