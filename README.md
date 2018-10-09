@@ -1,4 +1,4 @@
-# AMD-Common.js
+﻿# AMD-Common.js
 JS模块化知识总结
 
 如果你听过js模块化这个东西，那么你就应该听过或CommonJS或AMD甚至是CMD
@@ -80,3 +80,4 @@ RequireJS就是实现了AMD规范的。
  
  
 1 define(function(require,exports,module){...});
+
